@@ -10,3 +10,7 @@ class Dog
     puts 'woof!'
   end
 end
+
+fido = Dog.class
+fido.name
+fido.bark
