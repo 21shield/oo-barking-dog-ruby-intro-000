@@ -11,6 +11,4 @@ class Dog
   end
 end
 
-fido = Dog.class
-fido.name
-fido.bark
+
